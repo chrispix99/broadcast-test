@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastBug</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_sync_authority">com.christopherpick.broadcastbug.providers.exampleprovider</string>
+    <string name="example_sync_account_type">com.christopherpick.broadcastbug.provider.type</string>
+
+</resources>
